@@ -1,7 +1,7 @@
 {
   "main.css": "/Covisurance/static/css/main.9d438e77.chunk.css",
-  "main.js": "/Covisurance/static/js/main.bf69839e.chunk.js",
-  "main.js.map": "/Covisurance/static/js/main.bf69839e.chunk.js.map",
+  "main.js": "/Covisurance/static/js/main.1604960d.chunk.js",
+  "main.js.map": "/Covisurance/static/js/main.1604960d.chunk.js.map",
   "static/js/1.728d577f.chunk.js": "/Covisurance/static/js/1.728d577f.chunk.js",
   "static/js/1.728d577f.chunk.js.map": "/Covisurance/static/js/1.728d577f.chunk.js.map",
   "runtime~main.js": "/Covisurance/static/js/runtime~main.13d2a17e.js",
@@ -9,6 +9,6 @@
   "static/media/index.css": "/Covisurance/static/media/back.c1e83c00.png",
   "static/css/main.9d438e77.chunk.css.map": "/Covisurance/static/css/main.9d438e77.chunk.css.map",
   "index.html": "/Covisurance/index.html",
-  "precache-manifest.cd048371603839ce9929eeefe1800395.js": "/Covisurance/precache-manifest.cd048371603839ce9929eeefe1800395.js",
+  "precache-manifest.ed46c96446b8ce37455dd0e280f402ad.js": "/Covisurance/precache-manifest.ed46c96446b8ce37455dd0e280f402ad.js",
   "service-worker.js": "/Covisurance/service-worker.js"
 }
