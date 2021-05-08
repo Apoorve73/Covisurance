@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Covisurance/static/css/main.9d438e77.chunk.css"
   },
   {
-    "revision": "29e5eaf5bce83a43ba81df3302672d9e",
+    "revision": "8e3da8890152e9200919633f322d2cf9",
     "url": "/Covisurance/index.html"
   }
 ];

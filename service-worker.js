@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/Covisurance/precache-manifest.ed46c96446b8ce37455dd0e280f402ad.js"
+  "/Covisurance/precache-manifest.64104036f460703f88f3f4d74ad4f6b9.js"
 );
 
 workbox.clientsClaim();
