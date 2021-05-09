@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/Covisurance/static/js/runtime~main.13d2a17e.js"
   },
   {
-    "revision": "fd42cb2b0af673b6c7cb",
-    "url": "/Covisurance/static/js/main.fd42cb2b.chunk.js"
+    "revision": "6614bf759920ef349cb5",
+    "url": "/Covisurance/static/js/main.6614bf75.chunk.js"
   },
   {
     "revision": "728d577fe845eebf005a",
     "url": "/Covisurance/static/js/1.728d577f.chunk.js"
   },
   {
-    "revision": "fd42cb2b0af673b6c7cb",
+    "revision": "6614bf759920ef349cb5",
     "url": "/Covisurance/static/css/main.7d1d4509.chunk.css"
   },
   {
-    "revision": "091ca9f975b54294c40721a7e1b7bd90",
+    "revision": "e2a9f6dbfecb9836a880c3d84dc2b6c2",
     "url": "/Covisurance/index.html"
   }
 ];
