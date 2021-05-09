@@ -1,5 +1,7 @@
 # 🛡 COVISURANCE - [CHECK DEMO HERE](https://www.youtube.com/watch?v=uKGrJclQpok)
 
+## [ORGANISATIONAL REPO LINK](https://github.com/Covisurance/Covisurance)
+
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/for-you.svg)
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/powered-by-responsibility.svg)
