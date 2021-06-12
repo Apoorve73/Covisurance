@@ -1,5 +1,5 @@
 # 🛡 COVISURANCE - [CHECK DEMO HERE](https://www.youtube.com/watch?v=uKGrJclQpok)
-
+![Covisurance](https://socialify.git.ci/Apoorve73/Covisurance/image?language=1&owner=1&stargazers=1&theme=Light)
 ## [ORGANISATIONAL REPO LINK](https://github.com/Covisurance/Covisurance)
 
 ![ForTheBadge built-by-developers](https://forthebadge.com/images/badges/built-by-developers.svg)
